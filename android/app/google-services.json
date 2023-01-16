@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "189236704531",
+    "project_id": "recipe-e",
+    "storage_bucket": "recipe-e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189236704531:android:213d7d0ae8804a27c696e6",
+        "android_client_info": {
+          "package_name": "easecore.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189236704531-sh0hrtv3j4091hehkmasqac32rj4bv2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4bp09nLiZFShP17wvsrcHVE2gpceiDoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189236704531-sh0hrtv3j4091hehkmasqac32rj4bv2o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189236704531-dikh9mn9g2mnc5qlam6oeb0g1qkds725.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "easecore.recipe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,1 +1,1 @@
-# i-recipe
+# recipe
